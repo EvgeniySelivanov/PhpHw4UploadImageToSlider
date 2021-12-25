@@ -1,0 +1,18 @@
+.select-image{
+    margin-top:20px;
+}
+.btn-delete{
+    background-color: brown;
+}
+.btn-delete:hover{
+    background-color: rgb(156, 4, 4);
+}
+.coordinates{
+    margin-top: 80px;
+    color: brown;
+    background-color: black;
+}
+.panzoom {
+    width: 400px;
+    height: 300px;
+  }
